@@ -18,7 +18,7 @@
 
 
         <activity android:name=".SignInActivity" />
-
+        <activity android:name=".addRestaurant" />
         <activity android:name=".RestaurantReviews" />
 
     </application>
